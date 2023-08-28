@@ -1,2 +1,3 @@
 Hello world!
 Saya ingin menjadi seorang programmer yang bisa berguna untuk orang lain
+Saya dari dasan agung mataram lombok
